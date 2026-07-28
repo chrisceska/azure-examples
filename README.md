@@ -4,4 +4,10 @@ Chris Ceska's repository of Azure Examples, Architectural Decision Guides, and M
 ## Index
 
 - [Overview](#azure-examples)
-- [Region Selection](RegionSelection/azure-region-selection-recommendations.md)
+- [Guides](#guides)
+- [License](LICENSE)
+
+## Guides
+
+- [Azure Region Selection Recommendations](RegionSelection/azure-region-selection-recommendations.md)
+- [Key Vault Multi-Region Nonpaired Recommendations](RegionSelection/key-vault-multi-region-nonpaired-recommendations.md)
