@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "SOURCE_VAULT_URI": "https://kv-app-prod-eastus2-001.vault.azure.net",
+    "TARGET_VAULT_URI": "https://kv-app-prod-mexicocentral-001.vault.azure.net",
+    "SECRET_FILTER_PREFIX": "app-",
+    "ALLOWLIST_SECRETS": "",
+    "DISABLE_SYNC_TAG": "no-sync",
+    "SYNC_TAG_NAME": "synced-by",
+    "SYNC_TAG_VALUE": "kv-replicator"
+  }
+}
