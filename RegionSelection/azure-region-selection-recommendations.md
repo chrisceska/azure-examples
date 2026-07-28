@@ -1,6 +1,6 @@
 # Recommendations for Selecting an Azure Region for a New Application
 
-Created: 2026-07-28
+Created: 2026-03-15
 
 ## Executive summary
 
